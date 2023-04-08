@@ -53,6 +53,7 @@ It is highly recommended to use a virtual environment to install the dependencie
 	```
 
 # Files
+
 ```
 .
 ├── Continuous_Control_20.ipynb -> Notebook to train the agent
@@ -62,12 +63,15 @@ It is highly recommended to use a virtual environment to install the dependencie
 ├── Report.md -------------------> Report of the project
 ├── actor_critic.py -------------> Actor-Critic model code
 ├── actor_final.pth -------------> Weights of the trained actor
+├── basic_actor_critic_example_3.png -> Example of the Actor-Critic technique
 ├── critic_final.pth ------------> Weights of the trained critic
 ├── ddpg.py ---------------------> DDPG agent code
 ├── play.py ---------------------> Code to visualize the trained agent
 ├── reacher.gif -----------------> Gif of the environment
+├── trained_agent.gif -----------> Gif of the trained agent
 └── training_best.png -----------> Plot of the training scores
 ```
+
 
 # References
 - [Udacity Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)

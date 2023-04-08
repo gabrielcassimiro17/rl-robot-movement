@@ -79,6 +79,10 @@ It is essential to note that the agent's performance varied throughout the train
 
 After reaching the desired performance, the learning plateaued, and did not surpass the score of 40, demonstrating that there is room to further improve the agent's performance. This is an area of future work that can be explored to further optimize the agent's performance.
 
+We can also view the agents interacting with the environment after training:
+
+![](trained_agent.gif)
+
 # Ideas for Future Work
 
 1. Hyperparameter tuning: In this project, the hyperparameters were chosen based on a combination of recommendations from literature and empirical testing. However, there is potential for further optimization through systematic hyperparameter tuning, which could lead to even better performance.
